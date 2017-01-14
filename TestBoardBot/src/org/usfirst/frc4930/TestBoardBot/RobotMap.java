@@ -17,6 +17,5 @@ public class RobotMap {
         
         motor.setSafetyEnabled(true);
         motor.setExpiration(0.1);
-       
     }
 }
